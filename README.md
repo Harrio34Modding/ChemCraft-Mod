@@ -8,3 +8,5 @@ ChemCraft-Mod
   -Feed The Beast
   -DNS TechPack
   -UE by Calcalvia
+  -*Le Derp Pack*
+
