@@ -1,0 +1,20 @@
+[
+{
+  "modid": "CC1",
+  "name": "ChemCraft",
+  "description": "ChemCraft is awesome",
+  "version": "0.0.1",
+  "url": "https://github.com/Harrio34RyR11-Modding/ChemCraft-Mod",
+  "updateUrl": "",
+  "authorList": [
+    "harrio34"
+  ],
+  "credits": "PEPOLZ",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
